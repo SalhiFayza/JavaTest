@@ -10,6 +10,7 @@ public class BoucleDoWhile {
 			number++;
 
 		} while (number <= 200);
+				
 	}
 
 }

@@ -6,7 +6,7 @@ public class BoucleWhile {
 		int number = 80;
 		while (number >= 0) {
 			System.out.println("Le nomber est: " + number);
-			number --;
+			number--;
 		}
 	}
 
